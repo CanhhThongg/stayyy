@@ -1,10 +1,10 @@
 const CONFIGDATA = {
-  titleHeader: "Xin Lỗi Nhá",
+  titleHeader: "Cái này làm ra để giữ Cô ở lại K01",
   descriptionHeader:
-    "Nếu fen thoát ra và không trả lời thì có nghĩa là fen đã ĐỒNG Ý rồi đấy ^^",
+    "Nếu Cô thoát ra và không trả lời thì có nghĩa là Cô đã ĐỒNG Ý Ở LẠI rồi đấy ^^",
   buttonYes: "Đồng Ý",
-  buttonNo: "Không! Còn lâu nhé. M nằm mơ đi",
-  titleModar: "Cảm ơn fen vì đồng ý",
+  buttonNo: "Không! Còn lâu nhé. Cô đi đây",
+  titleModar: "Camonvidaden",
   descriptionModar:
-    'Mở block deiiiii',
+    'Chịu ở lại rồi yeahhhh',
 };
